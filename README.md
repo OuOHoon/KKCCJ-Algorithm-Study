@@ -1,4 +1,4 @@
-# 우리팀 알고리즘 스터디
+# KKCJ 알고리즘 뿌셔뿌셔
 
 ## 인원
 [김지현](https://github.com/zomeong)
