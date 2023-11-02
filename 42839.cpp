@@ -26,7 +26,10 @@ int solution(string numbers) {
     do{}
     while ()
 
-
+    //1.    숫자 배열 char로 받기.
+    //2.    char 배열 랜덤한 모든 경우의 수를 String으로 넘기기
+    //3.    String을 int로 변환해 isPrime
+    //4.    if(isPrime) countTarget++;
 }
 
 bool isPrime(int num) {
