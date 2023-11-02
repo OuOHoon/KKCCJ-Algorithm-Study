@@ -12,12 +12,12 @@ string numbers;
 int num[MAX];
 vector <int> v;
 
-// ¼Ò¼öÀÎÁö ÆÇº°
+// ì†Œìˆ˜ì¸ì§€ íŒë³„
 bool isPrime(int n) {
 	if (n <= 1) return false;
 
-	for (int i = 2; i * i <= n; i++) {	// 2ºÎÅÍ ·çÆ® n±îÁö ¼øÈ¸
-		if (n % i == 0) return false;	// ³ª´©¾î ¶³¾îÁö¸é ¼Ò¼ö°¡ ¾Æ´Ô
+	for (int i = 2; i * i <= n; i++) {	// 2ë¶€í„° ë£¨íŠ¸ nê¹Œì§€ ìˆœíšŒ
+		if (n % i == 0) return false;	// ë‚˜ëˆ„ì–´ ë–¨ì–´ì§€ë©´ ì†Œìˆ˜ê°€ ì•„ë‹˜
 	}
 
 	return true;
@@ -31,18 +31,18 @@ int main() {
 	cin >> numbers;
 
 	for (int i = 0; i < len; i++) 
-		num[i] = numbers[i] - '0';		// ¹®ÀÚ¿­À» ¼øÈ¸ÇÏ¸ç ¼ıÀÚ ÇÏ³ª¾¿ ¹è¿­¿¡ ³ÖÀ½
+		num[i] = numbers[i] - '0';		// ë¬¸ìì—´ì„ ìˆœíšŒí•˜ë©° ìˆ«ì í•˜ë‚˜ì”© ë°°ì—´ì— ë„£ìŒ
 
 
-	// ¸ğµç ¼ø¿­ ±¸ÇÏ±â 
+	// ëª¨ë“  ìˆœì—´ êµ¬í•˜ê¸° 
 	// next_permutation....
 
 
 	sort(v.begin(), v.end());
-	v.erase(unique(v.begin(), v.end()), v.end());	// Áßº¹ Á¦°Å
+	v.erase(unique(v.begin(), v.end()), v.end());	// ì¤‘ë³µ ì œê±°
 
 	for (int i = 0; i < v.size(); i++)
-		if (isPrime(v[i])) answer++;	// ¼Ò¼öÀÎÁö È®ÀÎ		
+		if (isPrime(v[i])) answer++;	// ì†Œìˆ˜ì¸ì§€ í™•ì¸		
 
 	cout << answer;
 	
