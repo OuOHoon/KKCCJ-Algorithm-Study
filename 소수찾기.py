@@ -1,6 +1,10 @@
 import itertools
 import math
 
+# 1. 숫자로 가능한 수를 모두 만든다.
+# 2. 소수인지 판별한다.
+
+
 def is_prime(number):
     if number < 2:
         return False
