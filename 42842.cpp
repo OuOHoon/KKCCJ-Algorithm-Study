@@ -46,10 +46,10 @@ vector<int> solution(int brown, int yellow) {
 void main() {
 	FIO;
 
-	// 1. brown + yellow = °¡·Î * ¼¼·Î
-	// 2. brown / 2 + 2 = °¡·Î + ¼¼·Î
-	// 3. ¾à¼ö¸¦ ¸ðµÎ Ã£À½
-	// 4. ¿ÏÀüÅ½»öÀ¸·Î ´õÇÏ¿© °ª Ã£±â
+	// 1. brown + yellow = ê°€ë¡œ * ì„¸ë¡œ
+	// 2. brown / 2 + 2 = ê°€ë¡œ + ì„¸ë¡œ
+	// 3. ì•½ìˆ˜ë¥¼ ëª¨ë‘ ì°¾ìŒ
+	// 4. ì™„ì „íƒìƒ‰ìœ¼ë¡œ ë”í•˜ì—¬ ê°’ ì°¾ê¸°
 	
 	
 	vector<int> answer = solution(10, 2);
