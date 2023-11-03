@@ -35,6 +35,7 @@ int solution(string numbers) {
 bool isPrime(int num) {
     if ( num <= 1)
         return false;
+
     for (int i = 2; i <= num/2; i++) {
         if (i * i == num)
             return true;
