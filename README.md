@@ -21,3 +21,4 @@
 | 2회차(2023.11.03) | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 | 3회차(2023.11.06) | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)
 | 4회차(2023.11.07) | [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)
+| 5회차(2023.11.08) | [모음사전](https://school.programmers.co.kr/learn/courses/30/lessons/84512)
