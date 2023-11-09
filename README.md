@@ -3,8 +3,10 @@
 <div><img src="[https://drive.google.com/uc?export=view&id=11r-51XfS009-CUr_Tr6_ROgCHcYZSrtJ" style="width:430px; height: 450px;"/></div>
 
 <div>
-![](https://drive.google.com/uc?export=view&id=1muJBTXRucpATHDbRq-J33Z-YTlLNPmIL)
+![](https://drive.google.com/uc?export=view&id=11r-51XfS009-CUr_Tr6_ROgCHcYZSrtJ)
 </div>
+
+
 
 ## 인원
 [김지현](https://github.com/zomeong)
