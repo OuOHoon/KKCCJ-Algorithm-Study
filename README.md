@@ -4,7 +4,7 @@
 <img src="https://github.com/OuOHoon/KKCCJ-Algorithm-Study/assets/17760465/a496de20-a3eb-4ba9-851d-8e9386c500ba" width="500" height="400" />
 </div>
 
-<img src="https://drive.google.com/uc?export=view&id=1muJBTXRucpATHDbRq-J33Z-YTlLNPmIL"/>
+<img src="https://drive.google.com/uc?export=view&id=1muJBTXRucpATHDbRq-J33Z-YTlLNPmIL">
 
 
 ## 인원
