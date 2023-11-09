@@ -1,13 +1,6 @@
 # KKCCJ 알고리즘 뿌셔뿌셔
 
-<div>
-<img src="[https://drive.google.com/uc?export=view&id=11r-51XfS009-CUr_Tr6_ROgCHcYZSrtJ" style="width:430px; height: 450px;"/>
-</div>
-
-<div>
-![image](https://drive.google.com/uc?export=view&id=11r-51XfS009-CUr_Tr6_ROgCHcYZSrtJ)
-</div>
-
+<img src="https://github.com/OuOHoon/KKCCJ-Algorithm-Study/assets/17760465/a496de20-a3eb-4ba9-851d-8e9386c500ba" width="500" height="400" />
 
 
 ## 인원
