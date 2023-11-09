@@ -7,4 +7,4 @@ def solution(numbers):
     return str(int(''.join(l)))
 
 solution([6, 10, 2])
-solution([31, 312, 313, 318, 319]) #
+solution([31, 312, 313, 318, 319])
