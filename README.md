@@ -1,4 +1,4 @@
-# KKCJ 알고리즘 뿌셔뿌셔
+# KKCCJ 알고리즘 뿌셔뿌셔
 
 ## 인원
 [김지현](https://github.com/zomeong)
