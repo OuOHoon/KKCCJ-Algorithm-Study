@@ -5,7 +5,7 @@
 [김진훈](https://github.com/ouohoon)
 [장동하](https://github.com/wkdehdgk159)
 [최혁](https://github.com/Youkamii)
-[최창규] (https://github.com/kyle4293)
+[최창규](https://github.com/kyle4293)
 
 ## 규칙
 1. 문제 풀이 시간 : 10:00 ~ 11:00
