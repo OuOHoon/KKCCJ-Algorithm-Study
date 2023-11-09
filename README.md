@@ -1,6 +1,6 @@
 # KKCCJ 알고리즘 뿌셔뿌셔
-![image](https://github.com/OuOHoon/KKCCJ-Algorithm-Study/assets/17760465/13546c9a-3812-4668-af73-cfc803ada0e1)
 
+<div><img src="[https://drive.google.com/uc?export=view&id=1DwxM-HUl0m0UKnhKuvdtliRoXqq1BiWj](https://github.com/OuOHoon/KKCCJ-Algorithm-Study/assets/17760465/13546c9a-3812-4668-af73-cfc803ada0e1)" style="width:450px; height: 400px;"/></div>
 ## 인원
 [김지현](https://github.com/zomeong)
 [김진훈](https://github.com/ouohoon)
