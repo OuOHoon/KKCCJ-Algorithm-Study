@@ -11,7 +11,6 @@ def solution(citations):
                 answer = max(answer, h)
     return answer
 
-
 def solution2(citations):
     citations.sort(reverse=True)
     h = 0
