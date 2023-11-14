@@ -31,3 +31,5 @@
 | 6회차(2023.11.09) | [가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 | 7회차(2023.11.10) | [H-Index](https://school.programmers.co.kr/learn/courses/30/lessons/42747)
 | 8회차(2023.11.13) | [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577)
+| 9회차(2023.11.14) | [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578)
+
