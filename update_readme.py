@@ -13,7 +13,7 @@ def update(p):
         n = match.group()
     with open("README.md", "a+") as f:
         today = datetime.date.today()
-        template = f"\n| {int(n) + 1}회차({today.year}.{today.month}.{today.day}) | [{p['title']}](https://school.programmers.co.kr/learn/courses/30/lessons/{p['id']})|"
+        template = f"| {int(n) + 1}회차({today.year}.{today.month}.{today.day}) | [{p['title']}](https://school.programmers.co.kr/learn/courses/30/lessons/{p['id']})|"
         f.write(template)
 
 
