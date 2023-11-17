@@ -7,11 +7,11 @@ from problem_crawler import crawling
 
 # 최초 1회차는 미리 정해져 있어야함
 def update(p):
-    with open("crawler/README.md", "r") as f:
+    with open("README.md", "r") as f:
         pattern = r"\d+"
         match = re.search(pattern, f.readlines()[-1])
         n = match.group()
-    with open("crawler/README.md", "a+") as f:
+    with open("README.md", "a+") as f:
         today = datetime.date.today()
         template = f"\n| {int(n) + 1}회차({today.year}.{today.month}.{today.day}) | [{p['title']}](https://school.programmers.co.kr/learn/courses/30/lessons/{p['id']})|"
         f.write(template)
