@@ -3,6 +3,8 @@ name: Update README
 on:
   schedule:
     - cron: "0 0 * * 1-5" # 분 시 일 월 요일 -> 평일 9시 0분에 실행
+  workflow_dispatch:
+
 
 jobs:
   update-readme:
