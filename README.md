@@ -49,5 +49,4 @@
 | 12회차(2023.11.17) | [하노이의 탑](https://school.programmers.co.kr/learn/courses/30/lessons/12946)|
 | 13회차(2023.11.17) | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)|
 | 14회차(2023.11.20) | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)|
-
 | 15회차(2023.11.21) | [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)|
