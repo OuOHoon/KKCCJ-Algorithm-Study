@@ -53,3 +53,4 @@
 | 16회차(2023.11.22) | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|
 | 17회차(2023.11.23) | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|
 | 18회차(2023.11.24) | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)|
+| 19회차(2023.11.27) | [[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|
