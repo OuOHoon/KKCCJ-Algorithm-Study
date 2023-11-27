@@ -50,7 +50,6 @@
 | 13회차(2023.11.17) | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)|
 | 14회차(2023.11.20) | [배달](https://school.programmers.co.kr/learn/courses/30/lessons/12978)|
 | 15회차(2023.11.21) | [[3차] 방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683)|
-
 | 16회차(2023.11.22) | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412)|
 | 17회차(2023.11.23) | [괄호 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/76502)|
 | 18회차(2023.11.24) | [교점에 별 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/87377)|
