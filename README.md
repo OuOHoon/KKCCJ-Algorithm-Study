@@ -57,3 +57,4 @@
 | 20회차(2023.11.28) | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)|
 | 21회차(2023.11.29) | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)|
 | 22회차(2023.11.30) | [조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|
+| 23회차(2023.12.1) | [줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)|
