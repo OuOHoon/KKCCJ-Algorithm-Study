@@ -61,3 +61,4 @@
 | 24회차(2023.12.4) | [최솟값 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12941)|
 | 25회차(2023.12.5) | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651)|
 | 26회차(2023.12.6) | [수식 최대화](https://school.programmers.co.kr/learn/courses/30/lessons/67257)|
+| 27회차(2023.12.7) | [테이블 해시 함수](https://school.programmers.co.kr/learn/courses/30/lessons/147354)|
