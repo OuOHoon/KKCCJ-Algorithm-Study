@@ -504,7 +504,8 @@
         "acceptanceRate": 49,
         "status": "unsolved",
         "openedAt": "2021-01-18T18:27:21.749+09:00",
-        "contentUpdatedAt": null
+        "contentUpdatedAt": null,
+        "solved": true
     },
     {
         "id": 70129,
