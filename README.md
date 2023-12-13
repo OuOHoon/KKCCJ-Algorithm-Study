@@ -65,3 +65,4 @@
 | 28회차(2023.12.8) | [시소 짝꿍](https://school.programmers.co.kr/learn/courses/30/lessons/152996)|
 | 29회차(2023.12.11) | [디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)|
 | 30회차(2023.12.12) | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411)|
+| 31회차(2023.12.13) | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|
