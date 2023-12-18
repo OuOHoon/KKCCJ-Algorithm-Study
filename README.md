@@ -68,3 +68,4 @@
 | 31회차(2023.12.13) | [튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|
 | 32회차(2023.12.14) | [n^2 배열 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/87390)|
 | 33회차(2023.12.15) | [빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)|
+| 34회차(2023.12.18) | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|

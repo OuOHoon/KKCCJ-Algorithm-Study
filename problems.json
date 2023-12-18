@@ -1174,6 +1174,7 @@
         "acceptanceRate": 58,
         "status": "unsolved",
         "openedAt": "2018-02-13T11:35:20.687+09:00",
-        "contentUpdatedAt": null
+        "contentUpdatedAt": null,
+        "solved": true
     }
 ]
