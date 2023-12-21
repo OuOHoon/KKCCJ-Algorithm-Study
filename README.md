@@ -71,3 +71,4 @@
 | 34회차(2023.12.18) | [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)|
 | 35회차(2023.12.19) | [큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)|
 | 36회차(2023.12.20) | [우박수열 정적분](https://school.programmers.co.kr/learn/courses/30/lessons/134239)|
+| 37회차(2023.12.21) | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|
