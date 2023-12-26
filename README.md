@@ -74,3 +74,4 @@
 | 37회차(2023.12.21) | [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)|
 | 38회차(2023.12.22) | [행렬 테두리 회전하기](https://school.programmers.co.kr/learn/courses/30/lessons/77485)|
 | 39회차(2023.12.25) | [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)|
+| 40회차(2023.12.26) | [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)|
