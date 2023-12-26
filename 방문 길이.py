@@ -19,4 +19,4 @@ def solution(dirs):
     result = 0
     for value in visited.values():
         result += len(value)
-    return round(result / 2)
+    return result / 2
