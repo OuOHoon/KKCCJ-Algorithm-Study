@@ -30,7 +30,8 @@
         "acceptanceRate": 50,
         "status": "unsolved",
         "openedAt": "2023-04-06T15:27:05.938+09:00",
-        "contentUpdatedAt": null
+        "contentUpdatedAt": null,
+        "solved": true
     },
     {
         "id": 176962,
