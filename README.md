@@ -77,3 +77,4 @@
 | 40회차(2023.12.26) | [유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)|
 | 41회차(2023.12.27) | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|
 | 42회차(2023.12.28) | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|
+| 43회차(2023.12.29) | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|
