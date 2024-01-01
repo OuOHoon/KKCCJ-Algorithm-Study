@@ -78,3 +78,4 @@
 | 41회차(2023.12.27) | [연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)|
 | 42회차(2023.12.28) | [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)|
 | 43회차(2023.12.29) | [다음 큰 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12911)|
+| 44회차(2024.1.1) | [[3차] n진수 게임](https://school.programmers.co.kr/learn/courses/30/lessons/17687)|
