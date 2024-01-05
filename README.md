@@ -82,3 +82,4 @@
 | 45회차(2024.1.2) | [땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|
 | 46회차(2024.1.3) | [택배상자](https://school.programmers.co.kr/learn/courses/30/lessons/131704)|
 | 47회차(2024.1.4) | [귤 고르기](https://school.programmers.co.kr/learn/courses/30/lessons/138476)|
+| 48회차(2024.1.5) | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927)|
