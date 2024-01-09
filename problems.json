@@ -526,7 +526,8 @@
         "acceptanceRate": 76,
         "status": "unsolved",
         "openedAt": "2020-11-06T10:27:02.607+09:00",
-        "contentUpdatedAt": null
+        "contentUpdatedAt": null,
+        "solved": true
     },
     {
         "id": 68936,
