@@ -86,3 +86,4 @@
 | 49회차(2024.1.8) | [124 나라의 숫자](https://school.programmers.co.kr/learn/courses/30/lessons/12899)|
 | 50회차(2024.1.9) | [이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)|
 | 51회차(2024.1.10) | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|
+| 52회차(2024.1.11) | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|
