@@ -88,3 +88,4 @@
 | 51회차(2024.1.10) | [N개의 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12953)|
 | 52회차(2024.1.11) | [피보나치 수](https://school.programmers.co.kr/learn/courses/30/lessons/12945)|
 | 53회차(2024.1.12) | [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)|
+| 54회차(2024.1.15) | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)|
