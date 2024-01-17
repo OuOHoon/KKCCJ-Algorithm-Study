@@ -90,3 +90,4 @@
 | 53회차(2024.1.12) | [N-Queen](https://school.programmers.co.kr/learn/courses/30/lessons/12952)|
 | 54회차(2024.1.15) | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)|
 | 55회차(2024.1.16) | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)|
+| 56회차(2024.1.17) | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|
