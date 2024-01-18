@@ -91,3 +91,4 @@
 | 54회차(2024.1.15) | [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)|
 | 55회차(2024.1.16) | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)|
 | 56회차(2024.1.17) | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|
+| 57회차(2024.1.18) | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|
