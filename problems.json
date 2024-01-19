@@ -665,7 +665,8 @@
         "acceptanceRate": 57,
         "status": "unsolved",
         "openedAt": "2018-09-20T17:19:38.636+09:00",
-        "contentUpdatedAt": null
+        "contentUpdatedAt": null,
+        "solved": true
     },
     {
         "id": 42885,

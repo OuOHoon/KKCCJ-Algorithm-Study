@@ -92,3 +92,4 @@
 | 55회차(2024.1.16) | [후보키](https://school.programmers.co.kr/learn/courses/30/lessons/42890)|
 | 56회차(2024.1.17) | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|
 | 57회차(2024.1.18) | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)|
+| 58회차(2024.1.19) | [오픈채팅방 ](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|
