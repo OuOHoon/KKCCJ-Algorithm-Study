@@ -95,3 +95,4 @@
 | 58회차(2024.1.19) | [오픈채팅방 ](https://school.programmers.co.kr/learn/courses/30/lessons/42888)|
 | 59회차(2024.1.22) | [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)|
 | 60회차(2024.1.23) | [2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)|
+| 61회차(2024.1.24) | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)|
