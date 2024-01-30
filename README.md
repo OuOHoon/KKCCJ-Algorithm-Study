@@ -99,3 +99,4 @@
 | 62회차(2024.1.25) | [당구 연습](https://school.programmers.co.kr/learn/courses/30/lessons/169198)|
 | 63회차(2024.1.26) | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)|
 | 64회차(2024.1.29) | [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)|
+| 65회차(2024.1.30) | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)|
