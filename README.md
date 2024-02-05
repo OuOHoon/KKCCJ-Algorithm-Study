@@ -103,3 +103,4 @@
 | 66회차(2024.1.31) | [[1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)|
 | 67회차(2024.2.1) | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993)|
 | 68회차(2024.2.2) | [[1차] 뉴스 클러스터링](https://school.programmers.co.kr/learn/courses/30/lessons/17677)|
+| 69회차(2024.2.5) | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)|
