@@ -1107,7 +1107,8 @@
         "acceptanceRate": 35,
         "status": "unsolved",
         "openedAt": "2018-05-23T17:57:42.600+09:00",
-        "contentUpdatedAt": "2023-02-09T18:00:00.000+09:00"
+        "contentUpdatedAt": "2023-02-09T18:00:00.000+09:00",
+        "solved": true
     },
     {
         "id": 12914,
