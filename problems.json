@@ -312,7 +312,8 @@
         "acceptanceRate": 66,
         "status": "unsolved",
         "openedAt": "2022-10-13T14:48:33.318+09:00",
-        "contentUpdatedAt": null
+        "contentUpdatedAt": null,
+        "solved": true
     },
     {
         "id": 131130,
