@@ -109,3 +109,4 @@
 | 72회차(2024.2.8) | [숫자 블록](https://school.programmers.co.kr/learn/courses/30/lessons/12923)|
 | 73회차(2024.2.9) | [연속 부분 수열 합의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/131701)|
 | 74회차(2024.2.12) | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|
+| 75회차(2024.2.13) | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|
