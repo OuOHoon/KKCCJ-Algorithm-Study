@@ -111,3 +111,4 @@
 | 74회차(2024.2.12) | [구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)|
 | 75회차(2024.2.13) | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585)|
 | 76회차(2024.2.14) | [예상 대진표](https://school.programmers.co.kr/learn/courses/30/lessons/12985)|
+| 77회차(2024.2.15) | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|
