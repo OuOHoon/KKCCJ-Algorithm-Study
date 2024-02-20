@@ -114,3 +114,4 @@
 | 77회차(2024.2.15) | [숫자의 표현](https://school.programmers.co.kr/learn/courses/30/lessons/12924)|
 | 78회차(2024.2.16) | [할인 행사](https://school.programmers.co.kr/learn/courses/30/lessons/131127)|
 | 79회차(2024.2.19) | [멀리 뛰기](https://school.programmers.co.kr/learn/courses/30/lessons/12914)|
+| 80회차(2024.2.20) | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)|
