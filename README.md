@@ -117,3 +117,4 @@
 | 80회차(2024.2.20) | [점 찍기](https://school.programmers.co.kr/learn/courses/30/lessons/140107)|
 | 81회차(2024.2.21) | [가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)|
 | 82회차(2024.2.22) | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|
+| 83회차(2024.2.23) | [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|
