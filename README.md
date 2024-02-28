@@ -120,3 +120,4 @@
 | 83회차(2024.2.23) | [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686)|
 | 84회차(2024.2.26) | [스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)|
 | 85회차(2024.2.27) | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|
+| 86회차(2024.2.28) | [[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)|
