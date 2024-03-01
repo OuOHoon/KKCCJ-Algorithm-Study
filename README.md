@@ -122,3 +122,4 @@
 | 85회차(2024.2.27) | [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)|
 | 86회차(2024.2.28) | [[1차] 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)|
 | 87회차(2024.2.29) | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645)|
+| 88회차(2024.3.1) | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|
