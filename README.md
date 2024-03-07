@@ -126,3 +126,4 @@
 | 89회차(2024.3.4) | [숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|
 | 90회차(2024.3.5) | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)|
 | 91회차(2024.3.6) | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)|
+| 92회차(2024.3.7) | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|

@@ -471,7 +471,8 @@
         "acceptanceRate": 44,
         "status": "unsolved",
         "openedAt": "2021-07-05T13:17:00.172+09:00",
-        "contentUpdatedAt": null
+        "contentUpdatedAt": null,
+        "solved": true
     },
     {
         "id": 77885,
