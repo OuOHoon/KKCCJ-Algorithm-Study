@@ -128,3 +128,4 @@
 | 91회차(2024.3.6) | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187)|
 | 92회차(2024.3.7) | [거리두기 확인하기](https://school.programmers.co.kr/learn/courses/30/lessons/81302)|
 | 93회차(2024.3.8) | [숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)|
+| 94회차(2024.3.11) | [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)|
